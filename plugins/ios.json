@@ -1,0 +1,42 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.ionic.keyboard": {
+            "PACKAGE_NAME": "com.hybridapps.mobionic"
+        },
+        "com.phonegap.plugins.barcodescanner": {
+            "PACKAGE_NAME": "com.hybridapps.mobionic"
+        },
+        "com.pushwoosh.plugins.pushwoosh": {
+            "PACKAGE_NAME": "com.hybridapps.mobionic"
+        },
+        "de.appplant.cordova.plugin.email-composer": {
+            "PACKAGE_NAME": "com.hybridapps.mobionic"
+        },
+        "nl.x-services.plugins.socialsharing": {
+            "PACKAGE_NAME": "com.hybridapps.mobionic"
+        },
+        "org.apache.cordova.console": {
+            "PACKAGE_NAME": "com.hybridapps.mobionic"
+        },
+        "org.apache.cordova.device": {
+            "PACKAGE_NAME": "com.hybridapps.mobionic"
+        },
+        "org.apache.cordova.dialogs": {
+            "PACKAGE_NAME": "com.hybridapps.mobionic"
+        },
+        "org.apache.cordova.geolocation": {
+            "PACKAGE_NAME": "com.hybridapps.mobionic"
+        },
+        "org.apache.cordova.inappbrowser": {
+            "PACKAGE_NAME": "com.hybridapps.mobionic"
+        }
+    },
+    "dependent_plugins": {}
+}
